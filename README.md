@@ -17,15 +17,19 @@
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/arch.svg></a> &nbsp;&nbsp;
     <!-- <a href="#"><img src= alt="Hyprland"></a> &nbsp;&nbsp;  -->
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/alacritty.svg></a> &nbsp;&nbsp;
+    <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/neovim.svg></a> &nbsp;&nbsp; 
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/vscode.svg></a> &nbsp;&nbsp;
 </p>
+
+<p align="center">
+    <a href="https://github.com/hyprwm/Hyprland/tree/main"><img src=https://github.com/hyprwm/Hyprland/blob/main/assets/header.svg width=300px></a>
+</p>
+
+
 
 <div align="center">
 <kbd><img alt="just-wallpaper-with-waybar" src="./assets/demo-screenshot.png" style="width: 600px;"/></kbd>
 </div>
-
-> [!IMPORTANT]
-> Dotfile can be found [here](https://github.com/tonigineer/.dotfiles).
 
 
 ## 📌 Interests
@@ -40,7 +44,6 @@
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/git.svg></a> &nbsp;&nbsp;
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/github.svg></a> &nbsp;&nbsp;
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/jupyter.svg></a> &nbsp;&nbsp;
-    <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/neovim.svg></a> &nbsp;&nbsp; 
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/numpy.svg></a> &nbsp;&nbsp;
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/pandas.svg></a> &nbsp;&nbsp;
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/python.svg></a> &nbsp;&nbsp;
