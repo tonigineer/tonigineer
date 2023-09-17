@@ -14,17 +14,15 @@
 ## 🥼 Setup
 
 <p align="center">
+    <a href="#"><img src=https://github.com/hyprwm/Hyprland/blob/main/assets/header.svg style="width: 150px;"></a>
+    <br>
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/arch.svg></a> &nbsp;&nbsp;
-    <!-- <a href="#"><img src= alt="Hyprland"></a> &nbsp;&nbsp;  -->
+    <!-- <a href="#"><img src= alt="Hyprland"></a> &nbsp;&nbsp;  CURRENTLY THERE IS NOT SVG OF A SQUARE LOGO-->
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/alacritty.svg></a> &nbsp;&nbsp;
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/neovim.svg></a> &nbsp;&nbsp; 
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/vscode.svg></a> &nbsp;&nbsp;
-</p>
 
-<p align="center">
-    <a href="https://github.com/hyprwm/Hyprland/tree/main"><img src=https://github.com/hyprwm/Hyprland/blob/main/assets/header.svg width=300px></a>
 </p>
-
 
 
 <div align="center">
