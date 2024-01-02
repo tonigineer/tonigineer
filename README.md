@@ -26,7 +26,7 @@
 
 
 <div align="center">
-<kbd><img alt="just-wallpaper-with-waybar" src="./assets/demo-screenshot.png" style="width: 600px;"/></kbd>
+<kbd><img alt="just-wallpaper-with-waybar" src="./assets/Screenshot_2024-01-02_20-27-29.png" style="width: 600px;"/></kbd>
 </div>
 
 
