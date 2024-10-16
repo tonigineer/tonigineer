@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! 👨‍💻</h1>
 
-<br>
-
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=3000&pause=1250&color=2990BE&center=true&vCenter=true&width=800&height=100&lines=root%40server%3A+~%23+rm+-rf+%2F;i++%3D+0x5f3759df+-+(+i+%3E%3E+1+)+%2F%2F+what+the+fuck%3F+;while+(1);i++%3D+*+(+long+*+)+%26y+%2F%2F+evil+floating+point+bit+level+hacking;10+PRINT+CHR%24(205.5%2BRND(1))+%3A+GOTO+10" alt="Typing SVG" /></a>
 </p>
+-->
 
 <!--
 <hr>
