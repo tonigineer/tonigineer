@@ -58,6 +58,16 @@
     <a href="#"><img src=https://github.com/tonigineer/tonigineer/blob/main/assets/icons/jupyter.svg></a> &nbsp;&nbsp;
 </p>
 
+<br>
+
+<div align=center>
+    <p align=center>Small Projects</p>
+        <a href="https://www.python.org/">Python<a> &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> &nbsp;&nbsp; 🔫 <br>
+    <!--
+    <a href="https://www.python.org/">Python<a> &nbsp;&nbsp;  🔬  &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> <br>
+    <a href="https://www.python.org/">Python<a> &nbsp;&nbsp;  🎾  &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> <br>
+    -->
+</div>
 
 <!--
   <hr>
