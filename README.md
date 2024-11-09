@@ -63,10 +63,7 @@
 <div align=center>
     <p align=center>Small Projects</p>
         <a href="https://www.python.org/">Python<a> &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> &nbsp;&nbsp; 🔫 <br>
-    <!--
-    <a href="https://www.python.org/">Python<a> &nbsp;&nbsp;  🔬  &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> <br>
-    <a href="https://www.python.org/">Python<a> &nbsp;&nbsp;  🎾  &nbsp;&nbsp; <a href="https://github.com/tonigineer/python-doom"><kbd>tonigineer/python-doom</kbd></a> <br>
-    -->
+        <a href="https://cplusplus.com/">C++<a> &nbsp;&nbsp; <a href="https://github.com/tonigineer/mandelbrot-set"><kbd>tonigineer/mandelbrot-set</kbd></a> &nbsp;&nbsp; 🔬 <br>
 </div>
 
 <!--
