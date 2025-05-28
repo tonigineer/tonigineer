@@ -3,7 +3,8 @@
 <br>
 
 <p align="center">
-    <a href="#"><img src=assets/header.svg style="width: 180px;"></a>
+    <a href="#"><img src=https://github.com/hyprwm/Hyprland/raw/main/assets/header.svg style="width: 180px;"></a>
+    <br>
     <br>
     <a href="#"><img src=assets/icons/arch.svg style="width: 50px;"></a> &nbsp;&nbsp;
     <a href="#"><img src=https://sw.kovidgoyal.net/kitty/_static/kitty.svg style="width: 50px;"></a> &nbsp;&nbsp;
@@ -18,53 +19,52 @@
 </a></div>
 
 <br>
-
-
-<h2 align="center">Repos</h2>
+<h2 align="center"></h2>
+<br>
 
 <!--
 ## 📌 Interests
 -->
 
-<!-- HTML -->
-<div style="display:flex; justify-content:center; gap:1rem; ">
-    <div align=center>
+
+<div align=center>
+    <p>
         <a href="https://github.com/tonigineer/dotfilesDotfiles">Dotfiles</a>
         <kbd>Python</kbd> <kbd>Rust</kbd> <kbd>bash</kbd>
-        <br>
-        <kbd><img src="https://github.com/tonigineer/dotfiles/raw/main/.assets/impressions/legacy_second_rice.png" style="width: 250px;"></kbd>    
-    </div>
-    <div align=center>
-        <a href="https://github.com/tonigineer/Advent-Of-Code">Advent of Code</a>
-        <kbd>Rust</kbd>
-        <br>
-    </div>
+    </p>
+    <kbd><img src="https://github.com/tonigineer/dotfiles/raw/main/.assets/impressions/legacy_second_rice.png" style="width: 350px;"></kbd>    
 </div>
 
 <br>
-
-<div style="display:flex; justify-content:center; gap:1rem; ">
-    <div align=center>
+<div align=center>
+    <p>
         <a href="https://github.com/tonigineer/mandelbrot-set">Mandelbrot Set</a>
         <kbd>C++</kbd>
-        <br>
-        <kbd><img src="https://github.com/tonigineer/mandelbrot-set/raw/main/assets/region-7.gif" style="width: 250px;"></kbd>  
-    </div>
-    <div align=center>
-        <a href="https://github.com/tonigineer/python-doom">Python Doom</a>
-        <kbd>Python</kbd>
-        <br>
-        <kbd><img src="https://github.com/tonigineer/python-doom/raw/main/assets/preview.png" style="width: 250px;"></kbd>     
-    </div>
-    <!-- <div align=center>
-        Ball Physics
-        <kbd>Rust</kbd>
-        <br>
-        <kbd><img src="" style="width: 250px;"></kbd>     
-    </div> -->
+    </p>
+    <kbd><img src="https://github.com/tonigineer/mandelbrot-set/raw/main/assets/region-7.gif" style="width: 350px;"></kbd>  
 </div>
 
-<h2 align="center">Statistics</h2>
+<br>
+<div align=center>
+    <p>
+        <a href="https://github.com/tonigineer/python-doom">Python Doom</a>
+        <kbd>Python</kbd>
+    </p>
+    <kbd><img src="https://github.com/tonigineer/python-doom/raw/main/assets/preview.png" style="width: 350px;"></kbd>     
+</div>
+
+<br>
+<div align=center>
+    <p>
+        <a href="https://github.com/tonigineer/Advent-Of-Code">Advent of Code</a>
+        <kbd>Rust</kbd>
+    </p>
+    <br>
+</div>
+
+<br>
+<h2 align="center"></h2>
+<br>
 
 <p align="center">
     <a href="#"><img src=assets/icons/bash.svg></a> &nbsp;&nbsp;
