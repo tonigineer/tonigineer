@@ -32,7 +32,7 @@
         <a href="https://github.com/tonigineer/dotfiles">Dotfiles</a>
         <kbd>Python</kbd> <kbd>Rust</kbd> <kbd>bash</kbd>
     </p>
-    <kbd><img src="https://github.com/tonigineer/dotfiles/raw/main/.assets/impressions/legacy_second_rice.png" style="width: 350px;"></kbd>    
+    <kbd><img src="https://github.com/tonigineer/dotfiles/raw/main/assets/impressions/current-caelestia-dark.png" style="width: 350px;"></kbd>    
 </div>
 
 <br>
