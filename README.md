@@ -26,13 +26,7 @@
 ## 📌 Interests
 -->
 
-
-<div align=center>
-    <p>
-        <a href="https://github.com/tonigineer/dotfiles">Dotfiles</a>
-    </p>
-    <kbd><img src="https://github.com/tonigineer/dotfiles/raw/main/assets/impressions/current-caelestia-dark.png" style="width: 350px;"></kbd>    
-</div>
+https://github.com/user-attachments/assets/9ffbc83d-95e5-4dcd-a834-7bd224211b55
 
 <br><br>
 <div align=center>
