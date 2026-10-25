@@ -26,7 +26,10 @@
 ## 📌 Interests
 -->
 
+<!--
 https://github.com/user-attachments/assets/9ffbc83d-95e5-4dcd-a834-7bd224211b55
+-->
+https://github.com/user-attachments/assets/7b247a8c-477b-4e10-9877-bc6708d388e6
 
 <br><br>
 <div align=center>
